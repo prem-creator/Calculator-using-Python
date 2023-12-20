@@ -1,2 +1,2 @@
 # Calculator-using-Python
-this is a basic application where i built calculator using flask.
+This is a basic application where I built a calculator using a flask.
